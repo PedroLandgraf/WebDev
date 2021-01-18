@@ -73,10 +73,6 @@ a:hover{
 /************ middle container***************/
 
 /************ Skills div***************/
-.skills-pic{
-  width: 200px;
-  height: 200px;
-}
 .skill-row{
   width: 50%;
   margin: 80px auto 100px auto;
@@ -84,12 +80,14 @@ a:hover{
   line-height: 200%;
 }
 .skills-pic{
-  width: 30%;
+  width: 200px;
+  height: 200px;;
   float: left;
   margin-right: 30px;
 }
 .earth-pic{
-  width: 30%;
+  width: 200px;
+  height: 200px;
   float: right;
   margin-left: 30px;
 }
